@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://yashraj2607.netlify.app/](https://yashraj2607.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yashraj2607.github.io/](https://yashraj2607.github.io/)
 
 - 📫 How to reach me **yr58907@gmail.com**
 
