@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yr58907@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gycomrfy9sbFoR0bHViSMkKtf-nVEo7n/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
